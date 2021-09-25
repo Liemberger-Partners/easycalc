@@ -3,9 +3,9 @@
 WB-EasyCalc was designed in 2006 to help water utilities and consultants to properly apply the IWA Water Loss Specialist Group Methodology.
 During the last 10 years it has become the preferred NRW analysis tool for water utilities around the world. To celebrate its 10th anniversary, version 5 has been launched in August 2016.
 
-The current version is 6.17.
+The current version is **6.17**.
 
-### Languages and World Bank Terminology
+## Languages and World Bank Terminology
 
 The pre-set Language is English using the IWA terminology. If you would like to use the World Bank favored terms "Physical Losses" and "Commercial Losses" instead of the IWA terms "Real Losses" and "Apparent Losses" click on the button "change language" and select code 2.
 
@@ -58,7 +58,7 @@ The program is protected with passwords which will not be revealed.
 
 The user has to be aware that results calculated with this program can be extremely wrong if base data is wrong or incomplete.
 
-### Gerneal Notes
+### General Notes
 
 It is ALWAYS recommended to carry out a thorough leakage analysis based on measurements in the distribution network to support and verify the physical loss figure calculated with this program.
 
@@ -119,4 +119,4 @@ WB-EasyCalc will be continuously improved and upgraded - revisit [www.liemberger
 - **Mr. Giap Minh Bui** from the Asian Development Bank has checked, corrected and completed the Vietnamese lanaguage version! Really appreciated!
 - **Mr. Josaia Tagivetaua** has spotted a translation issue in the annual water balance and brought it immediately to my attention. Thank you!
 - **Ralf de Groot** from Waternet spotted a mistake in the French translation and made me aware that Average Pressure was not defined - I have added now (w.s.p.). Hartelijk dank!
-- My friend **Bambos Charalambous** added another language, in his email to me he wrote: "At long last…. after using the EasyCalc so many times and in so many studies I made time to translate it into the Greek language 😊😊😊… I have to say it has been long overdue…." - thnak you Bambos, really appreciated!
+- My friend **Bambos Charalambous** added another language, in his email to me he wrote: "At long last…. after using the EasyCalc so many times and in so many studies I made time to translate it into the Greek language 😊😊😊… I have to say it has been long overdue…." - thank you Bambos, really appreciated!
