@@ -1,15 +1,37 @@
-# WB-EasyCalc
+# WB-EasyCalc becomes WCB-EasyCalc
 
-WB-EasyCalc was designed in 2006 to help water utilities and consultants to properly apply the IWA Water Loss Specialist Group Methodology.
-During the last 10 years it has become the preferred NRW analysis tool for water utilities around the world. To celebrate its 10th anniversary, version 5 has been launched in August 2016.
+## WB-EasyCalc (Water Balance)
 
-The current version is **6.17**.
+WB-EasyCalc was designed in 2006 to help water utilities and consultants to properly apply the IWA
+Water Loss Specialist Group Methodology.
+During the last 10 years it has become the preferred NRW analysis tool for water utilities around
+the world. To celebrate its 10th anniversary, version 5 has been launched in August 2016. The
+current version of WB-EasyCalc is **6.17**.
+
+> :warning: Important note: Roland Liemberger passed away in 2023. The work around WB-EasyCalc is
+> continued by **Mr. Dave Pearson** and published (mostly) via [GlobalNRW](https://globalnrw.com/).
+
+## WCB-EasyCalc - (Water & Carbon Balance)
+
+Waterlosses can be also seen as additional CO2 emissions. More on how the topics are related can be
+found in https://globalnrw.com/free-downloads/carbon-emissions/. The WB-EasyCalc got extended by
+**Mr. Dave Pearson** to now also include a Carbon Balance
+and was therefore renamed to WCB-EasyCalc (Water Carbon Balance).
+
+The current version is **1.07**.
+[Download HERE](https://raw.githubusercontent.com/Liemberger-Partners/easycalc/main/WCB-EasyCalc.xlsm)
+or go to [GlobalNRW](https://globalnrw.com/free-downloads/free-software/).
 
 ## Languages and World Bank Terminology
 
-The pre-set Language is English using the IWA terminology. If you would like to use the World Bank favored terms "Physical Losses" and "Commercial Losses" instead of the IWA terms "Real Losses" and "Apparent Losses" click on the button "change language" and select code 2.
+The pre-set Language is English using the IWA terminology. If you would like to use the World Bank
+favored terms "Physical Losses" and "Commercial Losses" instead of the IWA terms "Real Losses" and
+"Apparent Losses" click on the button "change language" and select code 2.
 
-In the World Bank Terminology, the IWA terms "UARL - Unavoidable Annual Volume of Real Losses" and "CARL - Current Annual Volume of Real Losses" were replaced with the World Bank favored terms "MAPL - Minimum Achievable Annual Volume of Physical Losses" and "CAPL - Current Annual Volume of Physical Losses". However, the underlying formula remained of course unchanged.
+In the World Bank Terminology, the IWA terms "UARL - Unavoidable Annual Volume of Real Losses" and
+"CARL - Current Annual Volume of Real Losses" were replaced with the World Bank favored terms
+"MAPL - Minimum Achievable Annual Volume of Physical Losses" and "CAPL - Current Annual Volume of
+Physical Losses". However, the underlying formula remained of course unchanged.
 
 Currently, the following languages are implemented:
 
@@ -50,37 +72,49 @@ white cells are for data entry dark blue cells are calculated values
 
 ### General Disclaimer
 
-While every effort has been made by the developers to ensure that WB-EasyCalc is free from error, those using the model do so at their own risk. Liemberger & Partners accept no liability of any nature for losses (direct or indirect) incurred through the use of this model.
+While every effort has been made by the developers to ensure that WB-EasyCalc is free from error,
+those using the model do so at their own risk. Liemberger & Partners accept no liability of any
+nature for losses (direct or indirect) incurred through the use of this model.
 
 The program is protected with passwords which will not be revealed.
 
 ### GIGO - Garbage in Garbage out!
 
-The user has to be aware that results calculated with this program can be extremely wrong if base data is wrong or incomplete.
+The user has to be aware that results calculated with this program can be extremely wrong if base
+data is wrong or incomplete.
 
 ### General Notes
 
-It is ALWAYS recommended to carry out a thorough leakage analysis based on measurements in the distribution network to support and verify the physical loss figure calculated with this program.
+It is ALWAYS recommended to carry out a thorough leakage analysis based on measurements in the
+distribution network to support and verify the physical loss figure calculated with this program.
 
-When using this program for the first time, it is recommended to first familiarize with the methodology. A complete set of background reading materials can be downloaded from [www.liemberger.cc](https://www.liemberger.cc).
+When using this program for the first time, it is recommended to first familiarize with the
+methodology. A complete set of background reading materials can be downloaded from
+[www.liemberger.cc](https://www.liemberger.cc).
 
 ### Feedback
 
 Liemberger & Partners would appreciate feedback! Please send your comments to office@liemberger.cc
 
-WB-EasyCalc will be continuously improved and upgraded - revisit [www.liemberger.cc](https://www.liemberger.cc) from time to time to check for new versions.
+WB-EasyCalc will be continuously improved and upgraded - revisit
+[www.liemberger.cc](https://www.liemberger.cc) from time to time to check for new versions.
 
 ## Contributions
 
 **My thanks go to many friends and colleagues who have helped to improve and complement this free software** (and apologies to those that are not mentioned here):
 
-- **Ronnie McKenzie** (South Africa) has ensured that the statistical concept used follows the principles brought to the Water Industry by Allan Lambert (UK)
+- **Ronnie McKenzie** (South Africa) has ensured that the statistical concept used follows the
+  principles brought to the Water Industry by Allan Lambert (UK)
 - **Gary McLay** (Australia) has detected a few fundamental bugs in the beta version!!!
-- **Malcolm Farley** has convinced me that the US spelling hurts too much for most people - therefore it is now only one of the language options!
-- **Pham Thach** (Vietnam) has prepared the translations for the first Non-English version and NT Dan from ECO-Asia has translated additional bits and pieces.
+- **Malcolm Farley** has convinced me that the US spelling hurts too much for most people -
+  therefore it is now only one of the language options!
+- **Pham Thach** (Vietnam) has prepared the translations for the first Non-English version and NT
+  Dan from ECO-Asia has translated additional bits and pieces.
 - **Ms. Asel Abylgazieva** (Kyrgyz Republic) has kindly translated everything into Russian language
-- **Ms. Yulfarida Arini** (Indonesia) has prepared the Bahasa Indonesia version that is now appreciated by many PDAMs (water utilities) in her country.
-- **Hervé Guibentif** (France) has used WB-EasyCalc to analyze the water losses of SIG, the water utility of Geneve, and was so kind to share the French language terms with us. Merci!
+- **Ms. Yulfarida Arini** (Indonesia) has prepared the Bahasa Indonesia version that is now
+  appreciated by many PDAMs (water utilities) in her country.
+- **Hervé Guibentif** (France) has used WB-EasyCalc to analyze the water losses of SIG, the water
+  utility of Geneve, and was so kind to share the French language terms with us. Merci!
 - **Philippe Marin** (France) who contributed the slogan: **... because the best things in life are free! ...**
 - **Marcello Schiatti** (Italy) was so kind to prepare the Italian language version (thanks also to my friend **Dewi Rogers**!)
 - **Ms. Debora Soares** (Brazil) from the water utility of São Paulo (SABESP) was so kind to prepare the Portuguese version.
